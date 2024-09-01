@@ -11,6 +11,6 @@ We have also built a predictive model based on these algorithms and the output o
 
 How to run this project:
 
-Upload the parkinsons.csv file in the notebook and execute the code. Link for the csv file is given below
-https://drive.google.com/file/d/1qkcff0fJW0kFyMCl74nyAGf3J17aezOR/view?usp=sharing
+Download and Upload the parkinsons file in the notebook and execute the code. Link for the dataset file is given below
+https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
 
